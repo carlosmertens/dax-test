@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/dax-test/static/css/main.4c407a4a.chunk.css",
+    "main.js": "/dax-test/static/js/main.a0f2381c.chunk.js",
+    "main.js.map": "/dax-test/static/js/main.a0f2381c.chunk.js.map",
+    "runtime-main.js": "/dax-test/static/js/runtime-main.cda47ce6.js",
+    "runtime-main.js.map": "/dax-test/static/js/runtime-main.cda47ce6.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/dax-test/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.409fc41f.chunk.js": "/dax-test/static/js/2.409fc41f.chunk.js",
+    "static/js/2.409fc41f.chunk.js.map": "/dax-test/static/js/2.409fc41f.chunk.js.map",
+    "index.html": "/dax-test/index.html",
+    "precache-manifest.ffa6c9cdedb3fa0511c4896c028b7a3e.js": "/dax-test/precache-manifest.ffa6c9cdedb3fa0511c4896c028b7a3e.js",
+    "service-worker.js": "/dax-test/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/dax-test/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4c407a4a.chunk.css.map": "/dax-test/static/css/main.4c407a4a.chunk.css.map",
+    "static/js/2.409fc41f.chunk.js.LICENSE.txt": "/dax-test/static/js/2.409fc41f.chunk.js.LICENSE.txt",
+    "static/media/Page-1.2c8be569.svg": "/dax-test/static/media/Page-1.2c8be569.svg",
+    "static/media/bulldozer.80fad2b2.svg": "/dax-test/static/media/bulldozer.80fad2b2.svg",
+    "static/media/crane.4419245d.svg": "/dax-test/static/media/crane.4419245d.svg",
+    "static/media/harvester.f08a6801.svg": "/dax-test/static/media/harvester.f08a6801.svg",
+    "static/media/logoCentro.png": "/dax-test/static/media/logoCentro.a643a28a.png",
+    "static/media/machine.2b39405c.svg": "/dax-test/static/media/machine.2b39405c.svg",
+    "static/media/mapaDAX.png": "/dax-test/static/media/mapaDAX.5edb7a82.png",
+    "static/media/truck.bd9a8e03.svg": "/dax-test/static/media/truck.bd9a8e03.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda47ce6.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.409fc41f.chunk.js",
+    "static/css/main.4c407a4a.chunk.css",
+    "static/js/main.a0f2381c.chunk.js"
+  ]
+}
