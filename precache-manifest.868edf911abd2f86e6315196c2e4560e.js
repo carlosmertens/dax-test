@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cebdbaef9db04bf85a4b2ed8545d0269",
+    "revision": "7f27ee91074488ab2f0559109354b4da",
     "url": "/dax-test/index.html"
   },
   {
-    "revision": "7a6163bda33fe9b8eaf7",
+    "revision": "fca06663060c526debc8",
     "url": "/dax-test/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "a8e3d719987cd9bd72c3",
+    "revision": "f947f52ede62cfd29c60",
     "url": "/dax-test/static/css/main.4c407a4a.chunk.css"
   },
   {
-    "revision": "7a6163bda33fe9b8eaf7",
-    "url": "/dax-test/static/js/2.409fc41f.chunk.js"
+    "revision": "fca06663060c526debc8",
+    "url": "/dax-test/static/js/2.fb7d61b1.chunk.js"
   },
   {
     "revision": "12dd44d2b00e40875f57730a1f749703",
-    "url": "/dax-test/static/js/2.409fc41f.chunk.js.LICENSE.txt"
+    "url": "/dax-test/static/js/2.fb7d61b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8e3d719987cd9bd72c3",
-    "url": "/dax-test/static/js/main.a0f2381c.chunk.js"
+    "revision": "f947f52ede62cfd29c60",
+    "url": "/dax-test/static/js/main.00052fa2.chunk.js"
   },
   {
     "revision": "c83800016a44b6c455da",
